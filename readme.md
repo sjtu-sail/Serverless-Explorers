@@ -1,12 +1,12 @@
 ![header image](./resources/header.png)
 
-This repo is a collection of research results about Serveless
+This repo is a collection of research results about Serverless
 
-You may find some useful information about Serveless here
+You may find some useful information here
 
 This repo focus on:
 
-- Serveless features today
-- Drawbacks and bottle-necks of Serveless
-- Experimental optimization for Serveless 
+- Serverless features today
+- Drawbacks and bottle-necks of Serverless
+- Experimental optimization for Serverless 
 
